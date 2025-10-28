@@ -1,5 +1,5 @@
 import { DataTable } from "@/components/DataTable";
-import { drugSynergyData } from "@/data/drugSynergyData";
+import { drugSynergyData } from "@/data/drugSynergyDataComplete";
 import { Database } from "lucide-react";
 
 const Index = () => {
